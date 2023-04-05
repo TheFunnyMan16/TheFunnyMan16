@@ -1,7 +1,9 @@
+<!-- Github Profile README i spent WAY too much time on -->
+<!-- i like pretty things -->
+
 <div align="center">
   <h3>>TheFunnyMan16_</h3> 
-</div>
-
+</div> 
 
 ```py
 class TheFunny:
@@ -14,13 +16,20 @@ class TheFunny:
         print("Yo, thanks for stopping by, I don't really use this website much, but I'm glad you're here!")
 
     def knows(self):
-       Alright_At = 'Python'
-    Learning = 'C++'
-    
-    def contact(self):
-        email = "livinghumanbeing111@gmail.com"
+        Alright_At = 'Python'
+        Learning = 'C++', 'Astro'
 
+    def contact(self):
+        email = 'livinghumanbeing111@gmail.com'
+    
     def __str__(self):
         return f"Name: {self.name}, Age: {self.age}, Hobbies: {self.hobbies}"
+```
 
-  ```
+<div align="center">
+  <h3>Stats</h3>
+</div>
+
+```py
+    raise NotImplementedError("I'm too lazy to make this")
+```
