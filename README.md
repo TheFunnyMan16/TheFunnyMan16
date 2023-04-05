@@ -1,11 +1,26 @@
-# Hi, I'm TheFunny
+<div align="center">
+  <h3>>TheFunnyMan16_</h3> 
+</div>
 
 
-## About Me
-Professional Dumbass, pr/ much it. Don't really use this site much but I'm trynna become more active.
+```py
+class TheFunny:
+    def init(self):
+        self.name = "TheFunnyMan16"
+        self.age = 17
+        self.hobbies = ["Coding", "Crying myself to sleep", "making readme's instead of doing something productive"]
 
+    def say_hi(self):
+        print("Yo, thanks for stopping by, I don't really use this website much, but I'm glad you're here!")
 
-##  "Skills"
-- C Development (god kill me)
-- Shell Script (just to contrast C)
-- Python
+    def knows(self):
+       Alright_At = 'Python'
+    Learning = 'C++'
+    
+    def contact(self):
+        email = "livinghumanbeing111@gmail.com"
+
+    def __str__(self):
+        return f"Name: {self.name}, Age: {self.age}, Hobbies: {self.hobbies}"
+
+  ```
